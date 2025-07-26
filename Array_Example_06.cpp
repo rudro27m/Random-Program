@@ -33,6 +33,8 @@ int main(){
 
     std::cout<<"Total pairs "<<totalTriplets<<std::endl;
 
+    std::cout<<"You are noob"<<std::endl;
+
     return 0;
 
 }
